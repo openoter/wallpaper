@@ -1,0 +1,18 @@
+dao 定义的接口
+entity 软件中的对象
+util 工具包
+daoimp 实现dao中所有的接口
+daobiz 负责和Activity进行交互
+service 服务
+adapter 适配器
+broadcast 广播
+db 数据库
+fragment 碎片
+
+
+代码的规范：
+    模板的规范：文件、类、方法的规范
+    修饰
+
+资源的规范：
+    媒体：Mp3 or Mp4{assets, raw}
